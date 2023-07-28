@@ -3,4 +3,4 @@ The Pierce County Asset Valuation Protocol R script is used to flag unused or ou
 
 After researching and building the protocol, I created a storypage to explain its purpose. Below is the pdf of the webpage.
 
-[Pierce County Asset Valuation Protocol Storypage.pdf](https://github.com/RebeccaHigbee/Asset-Valuation-Protocol/files/12202590/Pierce.County.Asset.Valuation.Protocol.Storypage.pdf)
+[Pierce County Asset Valuation Protocol Storypage (1).pdf](https://github.com/RebeccaHigbee/Asset-Valuation-Protocol/files/12204022/Pierce.County.Asset.Valuation.Protocol.Storypage.1.pdf)
